@@ -1,0 +1,4 @@
+
+In this project I built a fun Trivia Quiz using tkinter library for interface and request library for API requests and data. 
+
+We start by going to 'open trivia' website and select the topic in which we want to get questions about (in the quiz) then use the API with the help of requests library. With the help of tkinter I have created an interface where question is displayed and buttons for selecting the answer of the question.The code works in such a way that if background goes 'red' if answer is wrong and 'green' if answer is correct. The question gets updated after answering the previous question. At the end we get our score which shows number of correct answers out of total number of questions.
